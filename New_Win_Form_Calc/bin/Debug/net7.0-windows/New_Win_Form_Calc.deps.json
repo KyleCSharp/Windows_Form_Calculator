@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "New_Win_Form_Calc/1.0.0": {
+        "runtime": {
+          "New_Win_Form_Calc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "New_Win_Form_Calc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

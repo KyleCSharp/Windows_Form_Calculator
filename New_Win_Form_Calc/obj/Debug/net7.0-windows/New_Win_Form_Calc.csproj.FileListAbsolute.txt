@@ -1,0 +1,17 @@
+C:\Users\kylel\OneDrive\Desktop\Repos\New_Win_Form_Calc\New_Win_Form_Calc\obj\Debug\net7.0-windows\New_Win_Form_Calc.csproj.AssemblyReference.cache
+C:\Users\kylel\OneDrive\Desktop\Repos\New_Win_Form_Calc\New_Win_Form_Calc\obj\Debug\net7.0-windows\New_Win_Form_Calc.Form1.resources
+C:\Users\kylel\OneDrive\Desktop\Repos\New_Win_Form_Calc\New_Win_Form_Calc\obj\Debug\net7.0-windows\New_Win_Form_Calc.csproj.GenerateResource.cache
+C:\Users\kylel\OneDrive\Desktop\Repos\New_Win_Form_Calc\New_Win_Form_Calc\obj\Debug\net7.0-windows\New_Win_Form_Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kylel\OneDrive\Desktop\Repos\New_Win_Form_Calc\New_Win_Form_Calc\obj\Debug\net7.0-windows\New_Win_Form_Calc.AssemblyInfoInputs.cache
+C:\Users\kylel\OneDrive\Desktop\Repos\New_Win_Form_Calc\New_Win_Form_Calc\obj\Debug\net7.0-windows\New_Win_Form_Calc.AssemblyInfo.cs
+C:\Users\kylel\OneDrive\Desktop\Repos\New_Win_Form_Calc\New_Win_Form_Calc\obj\Debug\net7.0-windows\New_Win_Form_Calc.csproj.CoreCompileInputs.cache
+C:\Users\kylel\OneDrive\Desktop\Repos\New_Win_Form_Calc\New_Win_Form_Calc\bin\Debug\net7.0-windows\New_Win_Form_Calc.exe
+C:\Users\kylel\OneDrive\Desktop\Repos\New_Win_Form_Calc\New_Win_Form_Calc\bin\Debug\net7.0-windows\New_Win_Form_Calc.deps.json
+C:\Users\kylel\OneDrive\Desktop\Repos\New_Win_Form_Calc\New_Win_Form_Calc\bin\Debug\net7.0-windows\New_Win_Form_Calc.runtimeconfig.json
+C:\Users\kylel\OneDrive\Desktop\Repos\New_Win_Form_Calc\New_Win_Form_Calc\bin\Debug\net7.0-windows\New_Win_Form_Calc.dll
+C:\Users\kylel\OneDrive\Desktop\Repos\New_Win_Form_Calc\New_Win_Form_Calc\bin\Debug\net7.0-windows\New_Win_Form_Calc.pdb
+C:\Users\kylel\OneDrive\Desktop\Repos\New_Win_Form_Calc\New_Win_Form_Calc\obj\Debug\net7.0-windows\New_Win_Form_Calc.dll
+C:\Users\kylel\OneDrive\Desktop\Repos\New_Win_Form_Calc\New_Win_Form_Calc\obj\Debug\net7.0-windows\refint\New_Win_Form_Calc.dll
+C:\Users\kylel\OneDrive\Desktop\Repos\New_Win_Form_Calc\New_Win_Form_Calc\obj\Debug\net7.0-windows\New_Win_Form_Calc.pdb
+C:\Users\kylel\OneDrive\Desktop\Repos\New_Win_Form_Calc\New_Win_Form_Calc\obj\Debug\net7.0-windows\New_Win_Form_Calc.genruntimeconfig.cache
+C:\Users\kylel\OneDrive\Desktop\Repos\New_Win_Form_Calc\New_Win_Form_Calc\obj\Debug\net7.0-windows\ref\New_Win_Form_Calc.dll
