@@ -1,0 +1,7 @@
+C:\Users\kylel\OneDrive\Desktop\Repos\New_Win_Form_Calc\New_Win_Form_Calc.pdb
+C:\Users\kylel\OneDrive\Desktop\Repos\New_Win_Form_Calc\D3DCompiler_47_cor3.dll
+C:\Users\kylel\OneDrive\Desktop\Repos\New_Win_Form_Calc\PenImc_cor3.dll
+C:\Users\kylel\OneDrive\Desktop\Repos\New_Win_Form_Calc\PresentationNative_cor3.dll
+C:\Users\kylel\OneDrive\Desktop\Repos\New_Win_Form_Calc\vcruntime140_cor3.dll
+C:\Users\kylel\OneDrive\Desktop\Repos\New_Win_Form_Calc\wpfgfx_cor3.dll
+C:\Users\kylel\OneDrive\Desktop\Repos\New_Win_Form_Calc\New_Win_Form_Calc.exe

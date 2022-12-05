@@ -17,7 +17,7 @@ namespace New_Win_Form_Calc
         private void Button_Click(object sender, EventArgs e)
         {
 
-            if ((textBoxResult.Text == "0") || isOperationClicked)
+            if (textBoxResult.Text == "0" || isOperationClicked || textBoxResult.Text == "NaN")
             {
                 textBoxResult.Clear();
             }
@@ -42,7 +42,7 @@ namespace New_Win_Form_Calc
         private void ButtonC_Click(object sender, EventArgs e)
         {
             textBoxResult.Text = "0";
-            resultVaule = 0;
+            //resultVaule = 0;
         }
         private void ButtonEqual_Click(object sender, EventArgs e)
         {

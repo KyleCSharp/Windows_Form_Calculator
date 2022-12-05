@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vakooQ4hvFWrGMBrKXnv8ITFRXpkI0xF7BWDX57+FZ3JItpl073IbirLYqXqHz3107hED9MphthAGCs25GCEGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kylel\\OneDrive\\Desktop\\Repos\\New_Win_Form_Calc\\New_Win_Form_Calc\\New_Win_Form_Calc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kylel\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\7.0.0\\microsoft.netcore.app.runtime.win-x86.7.0.0.nupkg.sha512",
+    "C:\\Users\\kylel\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\7.0.0\\microsoft.windowsdesktop.app.runtime.win-x86.7.0.0.nupkg.sha512",
+    "C:\\Users\\kylel\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\7.0.0\\microsoft.aspnetcore.app.runtime.win-x86.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
